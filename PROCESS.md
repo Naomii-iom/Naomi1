@@ -1,13 +1,15 @@
 # Process
 
-## Session 1 — Brainstorming and Initial Argument
+## First Session: Brainstorming
 
-I began by considering the question: if AI can generate working code from natural-language prompts, why should I still learn programming as a designer?
+I began by thinking about the question of why designers should still learn programming when AI can generate code from a prompt. I used ChatGPT to help me understand the assignment and organise an initial outline.
 
-I used ChatGPT as a discussion partner to help me organise my own ideas and turn them into an initial argument. The key ideas came from my personal experience working on an interactive screen project in a subway passage.
+My main idea came from my own experience with an interactive-screen project in a subway passage. I used AI to generate code for an interaction, but when it failed, I could not identify the problem. Someone else later found that the issue was a small numerical error. This experience made me realise that getting code from AI is different from understanding how the code works.
 
-In that project, I used AI to generate code for an interaction. When the code did not work, I could not identify the problem because I did not understand the code well enough. After asking someone else for help, I learned that the issue was a small numerical error.
+## Second Session: Developing the Draft
 
-This experience led to my current initial position: programming is valuable not only for writing code, but for judging AI-generated solutions, communicating design intentions more precisely, and applying the underlying logic to new problems.
+I used ChatGPT to turn my outline into a first draft and to improve the structure of the essay. At first, the argument was too broad, focusing generally on AI and programming. I made it more specific by centering it on my subway-screen experience.
 
-The README currently contains a brainstorming draft, not the final essay. I will develop and revise it across later writing sessions.
+I watched Dylan Beattie’s *The Art of Code* and used the idea of programming as a creative medium to extend my argument. This helped me see that code is not only a technical tool behind a design; it can also be part of the material used to create an interactive experience.
+
+The personal project example and the final position are based on my own experience and reflection. AI was used to help with brainstorming, structure, and English expression. I will continue to reread and revise the essay so that the final version clearly reflects my own voice and understanding.
